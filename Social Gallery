@@ -1,1 +1,22 @@
 <!doctype html>
+  <head>
+    <title> Boyjupo | Gallery </title>
+    <meta name="viewport" content="width= 320 device-width">
+    <style>
+    </style>
+  </head>
+ 
+  <header>
+   <a href= "../../index.html"><h3> Home | Contact </h3> </a>
+   
+   <img src= "geometric exp.png" width= "800">
+<hr>
+   <img src= "ciru proto dark 1.jpg"  width= "800">
+<hr>   
+   <img src= "TPL BBLU.jpg"  width= "800">
+     
+   </header>
+
+<footer>
+   <a href= "https://www.instagram.com/boyjupo/" target= "_blank"><img src= "ig logo 1.png" width= "25"></a>
+</footer>
