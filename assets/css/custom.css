@@ -4,7 +4,9 @@ html {
 }
 
 .thumb-img {
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, .15) !important;
   border-color: #F5E3D6 !important;
+  border-width: 0.00 !important;
 }
 
 #loupeContainer div.background {
@@ -18,7 +20,7 @@ header div.background {
 }
 
 .custom-colorable {
-  fill: #5F1616 !important;
+  fill: #702706 !important;
 }
 
 body {
